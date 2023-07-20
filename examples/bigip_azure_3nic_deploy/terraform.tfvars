@@ -1,4 +1,4 @@
 # BIG-IP Environment
-location = "eastus"
+location = "australiaeast"
 
 AllowedIPs = ["0.0.0.0/0"]
